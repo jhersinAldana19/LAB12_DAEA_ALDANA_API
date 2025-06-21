@@ -1,0 +1,6 @@
+@LAB12_ALDANA_API_HostAddress = http://localhost:5213
+
+GET {{LAB12_ALDANA_API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
